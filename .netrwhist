@@ -1,8 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/alan/Sites/fallriveridx/app/controllers'
-let g:netrw_dirhist_2='/Users/alan/Sites/fallriveridx/app/controllers/api'
-let g:netrw_dirhist_3='/Users/alan/Sites/fallriveridx'
-let g:netrw_dirhist_4='/Users/alan/Sites/fallriveridx/spec'
-let g:netrw_dirhist_5='/Users/alan/Sites/fallriveridx/spec/controllers'
-let g:netrw_dirhist_6='/Users/alan/Sites/fallriveridx/spec/controllers/api'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/alan/Sites/politics411'
+let g:netrw_dirhist_2='/Users/alan/Sites/politics411/app'
+let g:netrw_dirhist_3='/Users/alan/Sites/politics411/bundler_stubs'
