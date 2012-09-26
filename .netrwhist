@@ -1,5 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/alan/Sites/politics411'
-let g:netrw_dirhist_2='/Users/alan/Sites/politics411/app'
-let g:netrw_dirhist_3='/Users/alan/Sites/politics411/bundler_stubs'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/alan/Sites/tubecache/app/views/devise/registrations'
+let g:netrw_dirhist_2='/Users/alan/Sites/tubecache/app/views/devise/passwords'
+let g:netrw_dirhist_3='/Users/alan/Sites/tubecache/app/views/devise/mailer'
+let g:netrw_dirhist_4='/Users/alan/Sites/tubecache/app/views/devise/confirmations'
+let g:netrw_dirhist_5='/Users/alan/Sites/tubecache-video-service'
+let g:netrw_dirhist_6='/Users/alan/Sites/tubecache/app/controllers'
+let g:netrw_dirhist_7='/Users/alan/Sites/tubecache/app'
+let g:netrw_dirhist_8='/Users/alan/Sites/tubecache/app/views'
+let g:netrw_dirhist_9='/Users/alan/Sites/tubecache/app/views/kaminari'
