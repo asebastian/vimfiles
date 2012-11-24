@@ -11,6 +11,9 @@ call pathogen#infect()
 " Make tagfiles for php projects.
 " au BufWritePost *.php silent! !ctags -R &
 
+" Remove trailing whitespace on write
+autocmd BufWritePre * :%s/\s\+$//e
+
 " Use system clipboard by default (OSX/Windows, linux untested)
 set clipboard=unnamed
 

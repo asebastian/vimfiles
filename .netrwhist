@@ -1,4 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/alan/Sites/fallriveridx/app/controllers'
-let g:netrw_dirhist_2='/Users/alan/Sites/fallriveridx/app/views'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/alan/Sites/crm/app/controllers'
+let g:netrw_dirhist_2='/Users/alan/Sites/crm/app'
+let g:netrw_dirhist_3='/Users/alan/Sites/crm/app/views'
+let g:netrw_dirhist_4='/Users/alan/Sites/crm/app/views/profile'
+let g:netrw_dirhist_5='/Users/alan/Sites/crm'
+let g:netrw_dirhist_6='/Users/alan/Sites/crm/app/views/profile'
+let g:netrw_dirhist_7='/'
