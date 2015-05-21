@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
+<<<<<<< HEAD
 let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/alan/Sites/crm/app/controllers'
 let g:netrw_dirhist_2='/Users/alan/Sites/crm/app'
@@ -7,3 +8,9 @@ let g:netrw_dirhist_4='/Users/alan/Sites/crm/app/views/profile'
 let g:netrw_dirhist_5='/Users/alan/Sites/crm'
 let g:netrw_dirhist_6='/Users/alan/Sites/crm/app/views/profile'
 let g:netrw_dirhist_7='/'
+=======
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/alan/code/aws_viewer/config/initializers'
+let g:netrw_dirhist_2='/Users/alan/sonian/sa-chef-repo/cookbooks/chuckwagon/recipes'
+let g:netrw_dirhist_3='/Users/alan/sonian/sa-chef-repo/cookbooks/chuckwagon/.kitchen'
+>>>>>>> 2bdd0ddd5375dbdf6ae6c335c49ecc32b4341e14
